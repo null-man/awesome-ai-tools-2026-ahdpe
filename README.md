@@ -189,6 +189,9 @@ Text-to-video, video editing, synthetic presenters, and production tools.
 | **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** | Image and video generation focused on motion, cinematic control, and fast iteration. | Free tier | Closed | No | Yes |
 | **[Kling AI](https://klingai.com/)** | Text-to-video and image-to-video generation with consumer-friendly creative controls. | Free tier | Closed | No | Yes |
 | **[GrokVideo Studio](https://grokvideogenerator.dev)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X). | Free trial | Closed | No | No |
+| **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X). | Free trial | Closed | No | No |
+| **[Bad Times AI](https://badtimesai.dev)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X). | Free trial | Closed | No | No |
+| **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X). | Free trial | Closed | No | No |
 | **[HeyGen](https://www.heygen.com/)** | AI avatars, voice translation, and presenter videos for business communication. | Free tier | Closed | No | Yes |
 | **[Synthesia](https://www.synthesia.io/)** | Enterprise avatar videos for training, onboarding, localization, and internal communication. | Paid | Closed | No | Yes |
 
