@@ -194,6 +194,9 @@ Text-to-video, video editing, synthetic presenters, and production tools.
 | PromptImage | Free AI image & video studio + prompt library | ✅ Free/Freemium | [promptimage.cloud](https://promptimage.cloud) |
 | TeslaWraps | Tesla wrap designer; core editing free | ✅ Free/Freemium | [teslawraps.design](https://teslawraps.design) |
 | GrokVideo Studio | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [grokvideogenerator.dev](https://grokvideogenerator.dev) |
+| **[Alors On Danse Video Maker](https://alorsondansevideo.com)** | One photo → ~5s 9:16 AI dance (Quince Classic / Party Groove). | Paid | Closed | No | No |
+| **[Bad Times AI](https://badtimesai.dev)** | One photo → ~5s 9:16 AI dance (Quince Classic / Party Groove). | Paid | Closed | No | No |
+| **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** | One photo → ~5s 9:16 AI dance (Quince Classic / Party Groove). | Paid | Closed | No | No |
 
 <a id="audio"></a>
 
